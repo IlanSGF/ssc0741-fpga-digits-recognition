@@ -11,7 +11,7 @@ This project is divided as follows:
 * __report__: Written in portuguese, contains detailed description and references for the whole development process.
 
 Developed by:
-* Ilan S. G. de Figueiredo
+* Ilan S. G. de Figueiredo (ilan.figueiredo@usp.br)
 * Kollins G. Lima (kollins.lima@usp.br) 
 * Rodrigo A. B. Ferrari (rodrigo.ferrari@usp.br)
 
