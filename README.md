@@ -13,7 +13,7 @@ This project is divided as follows:
 Developed by:
 * Ilan S. G. de Figueiredo (ilan.figueiredo@usp.br) 
 * Kollins G. Lima (kollins.lima@usp.br) 
-* Rodrigo A. B. Ferrari (rodrigo.ferrari@usp.br)
+* Rodrigo A. B. Ferrari (rodrigo.ferrari@usp.br) 
 
 Instructor: Prof. Vanderlei Bonato (vbonato@icmc.usp.br)
 
